@@ -10,4 +10,4 @@ function Practice1(s,p){
 const sequence = [1,3,5,7,9]
 const value=9;
 const result=Practice1(sequence, value);
-console.log(result);
+console.log("The index of the element searched is :"+result);
