@@ -9,3 +9,4 @@ function gcd(m,n){
 
 console.log(gcd(96,36));
 console.log(gcd(97,93));
+console.log(gcd(12,24));
